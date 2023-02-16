@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: d0cc068737982c94b8de3d019ce0f480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 917325765115324467
+    second: Momentum_0
+  - first:
+      213: 1972304881009412563
+    second: Momentum_1
+  - first:
+      213: -717025869964178303
+    second: Momentum_2
+  - first:
+      213: -2078822680814028397
+    second: Momentum_3
+  - first:
+      213: -6918984362110894840
+    second: Momentum_4
+  - first:
+      213: -2606766846477575486
+    second: Momentum_5
+  - first:
+      213: -4835628397868206791
+    second: Momentum_6
+  - first:
+      213: 4663351650387697188
+    second: Momentum_7
+  - first:
+      213: -6559174889679436588
+    second: Momentum_8
+  - first:
+      213: -4921061560069536051
+    second: Momentum_9
+  - first:
+      213: 7220923445451051565
+    second: Momentum_10
+  - first:
+      213: 3275582547655113174
+    second: Momentum_11
+  - first:
+      213: -8158578627740097134
+    second: Momentum_12
+  - first:
+      213: -7113330620546620769
+    second: Momentum_13
+  - first:
+      213: 4367518207946935756
+    second: Momentum_14
+  - first:
+      213: 7676891903574418184
+    second: Momentum_15
+  - first:
+      213: -9195915558622979058
+    second: Momentum_16
+  - first:
+      213: 2910748627707021127
+    second: Momentum_17
+  - first:
+      213: -1018904383252143838
+    second: Momentum_18
+  - first:
+      213: -1423493933612530196
+    second: Momentum_19
+  - first:
+      213: 5157595523440282121
+    second: Momentum_20
+  - first:
+      213: -1739994689562393132
+    second: Momentum_21
+  - first:
+      213: 2981253600826861258
+    second: Momentum_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Momentum_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 90
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33823055ceefabc00800000000000000
+      internalID: 917325765115324467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c55de6d80f5b10800000000000000
+      internalID: 1972304881009412563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 90
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c050e25cc9c06f0800000000000000
+      internalID: -717025869964178303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 90
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399fd0f29c98623e0800000000000000
+      internalID: -2078822680814028397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 73
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db5e98164daff90800000000000000
+      internalID: -6918984362110894840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca50774d57e2dbd0800000000000000
+      internalID: -2606766846477575486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 73
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353647a79564ecb0800000000000000
+      internalID: -4835628397868206791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 73
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e17185e9d87b040800000000000000
+      internalID: 4663351650387697188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4cef8903129f4a0800000000000000
+      internalID: -6559174889679436588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 56
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c9328590e4bbb0800000000000000
+      internalID: -4921061560069536051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 56
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2256649d9fd53460800000000000000
+      internalID: 7220923445451051565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b379e8f4357d20800000000000000
+      internalID: 3275582547655113174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295257dc6f7e6ce80800000000000000
+      internalID: -8158578627740097134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e8681d7f584d90800000000000000
+      internalID: -7113330620546620769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4ab68baa8c9c30800000000000000
+      internalID: 4367518207946935756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 40
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80320ab238cc98a60800000000000000
+      internalID: 7676891903574418184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 23
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1acf758b816080800000000000000
+      internalID: -9195915558622979058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 23
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747cee0847e056820800000000000000
+      internalID: 2910748627707021127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 23
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ea20acdf1cd1f0800000000000000
+      internalID: -1018904383252143838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 23
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50a133fcbbe3ce0800000000000000
+      internalID: -1423493933612530196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a8dcd6dc5739740800000000000000
+      internalID: 5157595523440282121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d541997c0c4ad7e0800000000000000
+      internalID: -1739994689562393132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Momentum_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 87
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6a3a6ca5a8f5920800000000000000
+      internalID: 2981253600826861258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
